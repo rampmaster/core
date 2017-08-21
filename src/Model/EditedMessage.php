@@ -10,7 +10,6 @@
 
 namespace Longman\TelegramBot\Model;
 
-
 class EditedMessage
 {
 

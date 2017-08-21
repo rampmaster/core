@@ -1,4 +1,5 @@
 <?php
+
 /**
  * This file is part of the TelegramBot package.
  *
@@ -8,9 +9,7 @@
  * file that was distributed with this source code.
  */
 
-
 namespace Longman\TelegramBot\Model;
-
 
 class User
 {
